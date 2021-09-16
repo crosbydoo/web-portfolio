@@ -1,2 +1,2 @@
-# WEB-PORTFOLIO
+# web-portfolio
 Collection of web portfolio 
